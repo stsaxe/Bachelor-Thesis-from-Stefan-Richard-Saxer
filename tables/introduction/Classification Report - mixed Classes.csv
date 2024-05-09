@@ -1,0 +1,9 @@
+Label,precision,recall,f1-score,support
+AirTag,0.0,0.0,0.0,16161.0
+SmartTag,1.0,1.0,1.0,8207.0
+Tile,1.0,1.0,1.0,8297.0
+iPhone,0.902,1.0,0.949,149481.0
+,,,,
+accuracy,0.911,0.911,0.911,0.911
+macro avg,0.726,0.75,0.737,182146.0
+weighted avg,0.831,0.911,0.869,182146.0

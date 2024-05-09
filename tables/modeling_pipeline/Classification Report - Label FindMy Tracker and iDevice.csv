@@ -1,0 +1,7 @@
+Label,precision,recall,f1-score,support
+FindMy Tracker,1.0,0.999,0.999,3382.0
+iDevice,1.0,1.0,1.0,31129.0
+,,,,
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,0.999,1.0,34511.0
+weighted avg,1.0,1.0,1.0,34511.0
